@@ -1,0 +1,4 @@
+bin/
+obj/
+.vscode/
+resource_links.txt
